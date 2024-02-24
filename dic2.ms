@@ -14,6 +14,8 @@ Armsreach|
 Aplenty|
 _
 B |...D|H | 
+backdrop
+beeline
 Bloodsports|
 _
 C |...D|H | 
