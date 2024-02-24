@@ -15,8 +15,8 @@ B|M|Y|
 Bated breath|Make good on|
 Better half|Mince matters|
 Blow out of water|Mental trip|
-Boils down|
-Brass tacks|
+Boils down|Make the rounds|
+Brass tacks|Muddy the waters|
 _
 C|N|Z|
 Can of worms|No stone unturned|
@@ -25,11 +25,13 @@ _
 D|...D |...G|K
 Dirty laundry|Olive branch|
 Duke out|On a limb|
+Drop in the ocean|
 _
 E|P|...G|K
-|Pales in| |
+Eggshells|Pales in| |
 |Pay it no| |
 |Pull the wool| |
+|Poison the well|
 _
 F|Q|...G|K
 Fish out... water|
@@ -47,6 +49,7 @@ I|T|...G|K
 Ingredients of|Throw daggers|
 _
 J|U|...G|K
+Jump ships|
 _
 K|V|...G|K
 Knee-jerk|

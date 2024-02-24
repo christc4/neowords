@@ -48,4 +48,5 @@ Demarcation| | |
 Demonstrably| | |
 Denigrate| | |
 Deride| | |
-.TE
+undergirds univocal
+.TE 

@@ -79,7 +79,7 @@ S| | |
 Saddled| | |
 Segue| | |
 Scour| | |
-Send-off| | |
+Shulk| | | |
 Standpoint| | |
 Standstill| | |
 Showboating| | |
@@ -95,7 +95,7 @@ U| | |
 Unsung| | |
 _
 V| | |
-Vain| | |
+Vein| | |
 Vet| | |
 _
 W| | |

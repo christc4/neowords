@@ -9,12 +9,15 @@ _
 A-P | P-Z
 _
 A |...D|H | 
-Anchor|Digress|Haphazard| 
+Anchor| 
 Armsreach|
+Aplenty|
 _
-A |...D|H | 
+B |...D|H | 
+Bloodsports|
 _
 C |...D|H | 
+Capstone|
 Centre-stage|
 Coax|
 Cooped|
@@ -24,6 +27,8 @@ D |...D|H |
 Diehard|
 Dolled|
 Dumbfounded|
+Denizens|
+Digress|
 _
 E |...D|H | 
 Earshot|
@@ -36,6 +41,8 @@ Guesswork|
 Gloss|
 _
 H |...D|H | 
+Haphazard|
+Happenstance|
 Hodgepodge|
 Hearsay|
 _
@@ -55,9 +62,24 @@ _
 O|...D|H | 
 _
 P|...D|H | 
+Patchwork|
 Phase|
 Peddle|
 Pitfall|
 Pitstop|
+_
+Q|...D|H | 
+_
+R|...D|H | 
+Revlatory
+_
+S|...D|H | 
+_
+T|...D|H | 
+_
+U|...D|H | 
+_
+V|...D|H | 
+Vestigial
 \" throwdown
 .TE
